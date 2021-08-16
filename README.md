@@ -8,8 +8,8 @@ Wallet System
 
 ## Make virtualenv
 
-* Make virtualenv using command ::
-        $ python -m virtualenv env
+* Make virtualenv using command *
+     $ python -m virtualenv env $
     
 * Install requirements file using command
         $ pip install -r requirements.txt
