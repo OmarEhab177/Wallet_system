@@ -1,0 +1,5 @@
+.pytest_cache
+env
+env/
+__pycache__ 
+db.sqlite3
