@@ -12,16 +12,17 @@ Wallet System
 
      $ python -m virtualenv env
     
-* Install requirements file using command
+* Install requirements file using command::
+
      $ pip install -r requirements.txt
 
 Run project
 -----------
-  $ python manin.py 
+     $ python manin.py 
 
 Run Test
 --------
-  $ pytest
+     $ pytest
 
 #### Notes
 * you must delete test.db before run pytest again
