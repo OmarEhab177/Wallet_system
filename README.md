@@ -8,10 +8,10 @@ Wallet System
 
 ## Make virtualenv
 
-    * Make virtualenv using command *
+    * Make virtualenv using command
         $ python -m virtualenv env
     
-    * Install requirements file using command *
+    * Install requirements file using command
         $ pip install -r requirements.txt
 
 Run project
@@ -23,4 +23,4 @@ Run Test
     $ pytest
 
 #### Notes
-    *you must delete test.db before run pytest again*
+    * you must delete test.db before run pytest again
