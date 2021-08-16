@@ -6,22 +6,21 @@ Wallet System
     * SQLAlchemy toolkit "db: sqlite3"
 
 
-Make virtualenv
-^^^^^^^^^^^^^^^
-    * Make virtualenv using command
+## Make virtualenv
+
+    * Make virtualenv using command *
         $ python -m virtualenv env
     
-    * Install requirements file using command
+    * Install requirements file using command *
         $ pip install -r requirements.txt
 
 Run project
-~~~~~~~~~~~
-    $ python manin.py
+-----------
+    $ python manin.py 
 
 Run Test
-~~~~~~~~
+--------
     $ pytest
 
-    Notes
-    -----
-        ** you must delete test.db before run pytest again **
+#### Notes
+    *you must delete test.db before run pytest again*
